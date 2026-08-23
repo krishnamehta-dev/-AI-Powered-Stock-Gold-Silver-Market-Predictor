@@ -1,0 +1,1 @@
+This project is a full-stack AI-powered market prediction dashboard that helps users track stocks, gold, and silver prices. It fetches live/delayed financial data, shows previous 1-month graphical price records, calculates profit/loss for saved investments, and provides AI-style prediction signals based on market momentum and volatility.
